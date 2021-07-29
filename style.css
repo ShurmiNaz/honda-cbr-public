@@ -1,7 +1,17 @@
+ /* header banner part */
+ .honda-font{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+}
 .honda-banner-bg{
     background-color: #264653;
 }
-
+.banner-text{
+    width: 480px;
+}
+.buttonn{
+    background-color:#E76F51 ;
+}
 /* feature bike style */
 .categorise img{
     width: 288px;
@@ -27,3 +37,10 @@
 }
 /* --end--- */
    
+.question img{
+    width: 432px;
+    height: 423px;
+}
+.honda-font-color{
+    color: #E76F51;
+}
