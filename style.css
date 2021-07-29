@@ -1,0 +1,29 @@
+.honda-banner-bg{
+    background-color: #264653;
+}
+
+/* feature bike style */
+.categorise img{
+    width: 288px;
+    height: 243px;
+}
+.filter{
+    filter: grayscale(100%);
+}
+
+/* happy client comment */
+.client img{
+    width: 150px;
+    height: 150px;
+}
+.star{
+    color: #E77C40;
+}
+.coment{
+    color: #6C6C6C;
+}
+.header{
+    font-size: 48px;
+}
+/* --end--- */
+   
